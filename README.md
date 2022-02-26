@@ -9,10 +9,4 @@ Lecture Sessions of Gokul Alex
 
 ## 2022
 - Blockchain and Future of Work - NIPM Kerala Chapter
-### Related References
-- https://www.disruptordaily.com/blockchain-market-map-human-resources/
-- https://www.mercer.com/our-thinking/blockchain-for-human-resources.html
-- https://www.ibm.com/blogs/blockchain/2020/08/hr-recruiters-are-putting-blockchain-to-work/
-- https://www.benzinga.com/markets/cryptocurrency/21/12/24812286/blockchain-meets-hr-just-how-big-could-this-market-be
-
-
+- Hyperledger Fabric Security - Unchained 2022
