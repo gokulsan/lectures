@@ -5,8 +5,9 @@ Lecture Sessions of Gokul Alex
 - Pathways of Post Quantum Cryptography for Kashmir Institute of Mathematical Sciences
 
 ## 2021
-- Blockchain and Future of Work - NIT Calicut School of Management
+- Blockchain and Future of Work > NIT Calicut School of Management
 
 ## 2022
-- Blockchain and Future of Work - NIPM Kerala Chapter
-- Hyperledger Fabric Security - Unchained 2022
+- Blockchain and Future of Work > NIPM Kerala Chapter
+- Hyperledger Fabric Security > Unchained 2022
+- Blockchain Oracles : Concepts and Constructions > Encrypt 2022
