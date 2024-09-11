@@ -15,3 +15,4 @@ Lecture Sessions of Gokul Alex
 ## 2024
 - Fundamental Facets of Quantum Computing for DST SCRB
 - Privacy Preserving Machine Learning Techniques for KIMS
+- Future of Industries, Machines and Economies for BJI
