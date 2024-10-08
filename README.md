@@ -16,3 +16,4 @@ Lecture Sessions of Gokul Alex
 - Fundamental Facets of Quantum Computing for DST SCRB
 - Privacy Preserving Machine Learning Techniques for KIMS
 - Future of Industries, Machines and Economies for BJI
+- Zero Knowledge Proofs - A Compilation of Concepts for TKMCE
